@@ -1,4 +1,4 @@
 #### Top Coding Platform to practice DSA
 
-[LeetCode](https://leetcode.com/)
-[GeeksforGeeks](https://practice.geeksforgeeks.org/)
+1. [LeetCode](https://leetcode.com/)<br>
+2. [GeeksforGeeks](https://practice.geeksforgeeks.org/)
