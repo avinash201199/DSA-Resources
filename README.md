@@ -1,6 +1,6 @@
 #  DSA-Resources
 
-<br>
+
 [Books](https://github.com/avinash201199/DSA-Resources/tree/main/Books)<br>
 [Coding platforms](https://github.com/avinash201199/DSA-Resources/tree/main/Top-Coding-Platforms) <br>
 [DSA Interview Questions](https://github.com/avinash201199/DSA-Resources/tree/main/DSA-Interview-Questions)<br>
