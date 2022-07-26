@@ -8,7 +8,7 @@
 5. [SDE Sheets](https://github.com/avinash201199/DSA-Resources/tree/main/Best%20DSA%20Sheets) <br>
 6. [Youtube Playlists](https://github.com/avinash201199/DSA-Resources/tree/main/Youtube%20Playlists)<br>
 7. [Websites for Theory](https://github.com/avinash201199/DSA-Resources/tree/main/Websites)<br>
-8. [DSA Resouce from google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+8. [DSA Resouce from Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 
 
 <hr>
