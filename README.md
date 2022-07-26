@@ -1,4 +1,4 @@
-#  DSA-Resources
+#  Data Structures and Algorithms Resources
 
 
 1. [Books](https://github.com/avinash201199/DSA-Resources/tree/main/Books)<br>
